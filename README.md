@@ -3,7 +3,7 @@ Gets the IP's of active domains and writes txt. If you want to get xlsx output, 
 
 # Usage
 
-`python domainToip.py `
+`python domainToip.py `\n
 filename and output parameter is required.
 `python domainToip.py -f domainlist.txt -o kek.txt`
 ```
