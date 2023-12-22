@@ -4,6 +4,8 @@ Gets the IP's of active domains and writes txt. If you want to get xlsx output, 
 # Usage
 
 `python domainToip.py `
+filename and output parameter is required.
+`python domainToip.py -f domainlist.txt -o kek.txt`
 ```
   options:
     -h, --help            show this help message and exit
