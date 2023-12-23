@@ -2,10 +2,11 @@
 Gets the IP's of active domains and writes txt. If you want to get xlsx output, gives the xlsx output with table.
 
 # Usage
+you can start typing `python domainToip.py` . Filename and output parameter is required.
 
-`python domainToip.py `
-filename and output parameter is required.
+### Example
 `python domainToip.py -f domainlist.txt -o kek.txt`
+### Help
 ```
   options:
     -h, --help            show this help message and exit
